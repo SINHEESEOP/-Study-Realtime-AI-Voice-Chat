@@ -1,0 +1,19 @@
+# 환경 변수
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# 기타
+.DS_Store
+Thumbs.db 
